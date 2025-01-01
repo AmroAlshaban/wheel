@@ -63,4 +63,3 @@ class InsertionSort:
     def loop_invariant(self):
         ...
 
-print(InsertionSort([1, 4, 2, 6, 4, 3, 8]).array)

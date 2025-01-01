@@ -63,3 +63,7 @@ class InsertionSort:
     def loop_invariant(self):
         ...
 
+
+
+class MergeSort:
+    ...
